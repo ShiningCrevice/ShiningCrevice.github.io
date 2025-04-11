@@ -22,7 +22,7 @@ repository               : "ShiningCrevice/ShiningCrevice.github.io"
 #               Additional customization can be done by editing /_includes/author-profile.html
 author:
   # Biographic information
-  avatar           : "profile.png"
+  avatar           : "lyc.png"
   name             : "Yicheng Li (李奕成)"
   pronouns         : # example: "she/her"  
   bio              : "A student majoring in computer science"
